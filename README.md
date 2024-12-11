@@ -46,7 +46,7 @@ In order to identify where acceptance rates have a disproportionate impact to ov
 
 
 Common Findings:
-With regard to my supporting hypotheses, I found that for all three coupon types I analyzed expirations of 1 day had a much higher acceptance rate.  Moving all expirations to 1 day should increase acceptance rates as hypothesized. 
+With regard to my supporting hypotheses, I found that for all three coupon types I analyzed, expirations of 1 day had a much higher acceptance rate.  Moving all expirations to 1 day should increase acceptance rates as hypothesized. 
 
 Additionally, for all three coupon types, drivers with passangers who were friends or partners had a higher tendency to accept the coupons.  Though the correlation for 'Carry Out' coupons was not as signficant as the other two. 
 
@@ -55,7 +55,7 @@ Lastly, 2pm seems to be a peak for all coupons analyzed.  If there are resource 
 Specific Coupon Group Findings:
 
 CARRY OUT:
-Generally speaking, people who were offered 'Carry Out' coupons had a high propensity to accept.  It would seem that the primary factor here is the type of establishment itself.  Carry Out establishments are very condusive for picking up while out driving so I would hypothesize this to be he main factor for high acceptance rates.  
+Generally speaking, people who were offered 'Carry Out' coupons had a high propensity to accept.  It would seem that the primary factor here is the type of establishment itself.  Carry Out establishments are very condusive for picking up while out driving so I would hypothesize this to be The main factor for high acceptance rates.  
 ![My Image](images/carryout_subplots.png)   
 
 COFFEE HOUSE:
