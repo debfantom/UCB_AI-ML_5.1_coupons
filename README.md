@@ -12,19 +12,19 @@ The goal of this project was to use what I know about visualizations and probabi
 Of all the participants, the total coupon acceptance rate was 57%.  
 ![My Image](images/tot_pop_rate.png)
 
-After some initial exploratory data analysis (EDA), I made the following hypotheses to guide my analysis.  My hope was to identify areas of opportunity to increase the programs success (as measured by coupon acceptance) through my understanding of what influenced a customer's probability of accepting an offered coupon.
+After some initial exploratory data analysis (EDA), I made the following hypotheses to guide my analysis.  My hope was to identify areas of opportunity to increase the program's success (as measured by coupon acceptance) through my understanding of what factors were correlated to a customer's increased probability of accepting an offered coupon.
 
 
 #### Hypotheses:
 
 **Primary Hypothesis:**
-Customer coupon acceptance rates are strongly influenced by prior patronage habits specific to the type of establishment (e.g., bar, coffee house, or upscale restaurant). Customers with a higher historical frequency of visiting such establishments are more likely to accept corresponding coupons.
+Customer coupon acceptance rates are strongly influenced by prior patronage habits (visits per month) specific to the type of establishment (e.g., carry out, coffee house, or cheap restaurant). Customers with a higher historical frequency of visiting such establishments are more likely to accept corresponding coupons.
 
 **Supporting Hypotheses:**
 
 Coupon Expiration Dynamics:
 
-Coupons with a shorter expiration period (e.g., 2 hours) may lead to higher immediate usage, while longer expiration periods (e.g., 1 day) may encourage acceptance for future use. Since success for our usecase includes acceptance for later usage, offering the longer expiration in all cases may help boost acceptance rates.  We might also be open to testing longer experation periods.
+Coupons with a shorter expiration period (e.g., 2 hours) may lead to higher immediate usage, while longer expiration periods (e.g., 1 day) may encourage acceptance for future use. Since success for our use case includes acceptance for later usage, offering the longer expiration in all cases may help boost acceptance rates.  We might also be open to testing longer experation periods.
 
 
 Contextual Influence:
@@ -36,7 +36,7 @@ With regard to my **primary hypothesis**, this was only mostly right. While corr
 ![My Image](images/prior_patronage.png)
 
 
-In order to identify where acceptance rates have a disproportionate impact to overall rates, I looked at the distribution of offers by coupon type as well as the acceptance rates.  I found 'Carry Away', followed by 'Cheap Restaurants' coupon acceptance rates were above average.  Additionally, 'Coffee House' coupons had the highest proportion of offers.  
+In order to identify where coupon type acceptance rates have a disproportionate impact to overall rates, I looked at the distribution of offers by coupon type as well as the acceptance rates.  I found 'Carry Away', followed by 'Cheap Restaurants' coupon acceptance rates were above average.  Additionally, 'Coffee House' coupons had the highest proportion of offers sent.  
 
 
 ![My Image](images/offer_proportion.png)
