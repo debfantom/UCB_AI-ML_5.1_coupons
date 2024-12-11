@@ -20,7 +20,7 @@ After some initial exploratory data analysis (EDA), I made the following hypothe
 **Primary Hypothesis:**
 Customer coupon acceptance rates are strongly influenced by prior patronage habits (visits per month) specific to the type of establishment (e.g., carry out, coffee house, or cheap restaurant). Customers with a higher historical frequency of visiting such establishments are more likely to accept corresponding coupons.
 
-**Supporting Hypotheses:**
+**Secondary Hypotheses:**
 
 Coupon Expiration Dynamics:
 
@@ -46,7 +46,7 @@ In order to identify where coupon type acceptance rates have a disproportionate 
 
 
 Common Findings:
-With regard to my supporting hypotheses, I found that for all three coupon types I analyzed, expirations of 1 day had a much higher acceptance rate.  Moving all expirations to 1 day could increase acceptance rates as hypothesized. 
+With regard to my secondary hypotheses, I found that for all three coupon types I analyzed, expirations of 1 day had a much higher acceptance rate.  Moving all expirations to 1 day could increase acceptance rates as hypothesized. 
 
 Additionally, for all three coupon types, drivers with passangers who were friends or partners had a higher tendency to accept the coupons.  Though the correlation for 'Carry Out' coupons was not as signficant as the other two. 
 
